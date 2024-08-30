@@ -8,7 +8,7 @@
 }
 
 .container{
-    background-color: #f3efea;
+    background-color: #efbf84c4;
     width: 100%;
     height: 100vh;
     display: flex;
@@ -21,6 +21,7 @@
     background-color: #FFC374;
     padding: 20px;
     border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .calculator form input{
